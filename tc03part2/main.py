@@ -1,5 +1,13 @@
 from merrill import *
 
-def main():
-    call_merrill()
+print('Welcome to our colaborative project')
 
+def call_jessen():
+  print('Hello from Brendan')
+  
+def main():
+  call_jessen()
+  call_merrill()
+
+if __name__ == __main__:  
+  main()
