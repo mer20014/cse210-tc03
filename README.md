@@ -9,4 +9,10 @@ I'm from West Virginia and currently studying
 computer science. I am a huge nerd and love playing
 d&d. I draw, play music, and sing. I really enjoy programming.
 main
+
+
+Marco Varela:
+
+
+I am from Mexico City, my major is Software Engineering and my minor is Data Science, this is my second year here at BYU-Idaho
 >>>>>>> a8330ab47f2971c093931d75f2006acbe8936b73
