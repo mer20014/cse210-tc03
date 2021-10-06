@@ -12,9 +12,9 @@ main
 
 
 Marco Varela:
-
-
 I am from Mexico City, my major is Software Engineering and my minor is Data Science, this is my second year here at BYU-Idaho
+I enjoy learning programming and new languages, I am currently learning English and French (Spanish is my native language)
+
 
 Matthew Young 
 I am from Livermore, California and this is my sixth semester at BYU-I and I am majoring in Data Science. I have two younger siblings one brother and one sister and my family owns two dogs one that is a bernese mountain dog and one golden retriever. I enjoy playing video games, board games, and being outdoors.
