@@ -17,5 +17,5 @@ I enjoy learning programming and new languages, I am currently learning English 
 
 
 Matthew Young 
-I am from Livermore, California and this is my sixth semester at BYU-I and I am majoring in Data Science. I have two younger siblings one brother and one sister and my family owns two dogs one that is a bernese mountain dog and one golden retriever. I enjoy playing video games, board games, and being outdoors.
+I am from Livermore, California and this is my sixth semester at BYU-I and I am majoring in Data Science. I have two younger siblings one brother and one sister and my family owns two dogs one that is a bernese mountain dog and one golden retriever. I enjoy playing video games, board games, being outdoors, and playing some sports.
 >>>>>>> a8330ab47f2971c093931d75f2006acbe8936b73
